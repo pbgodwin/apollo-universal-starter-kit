@@ -10,6 +10,14 @@
       "openBrowser": true,
       "enabled": true
     },
+    "windows": {
+      "stack": ["electron", "windows"],
+      "enabled": true
+    },
+    "linux": {
+      "stack": ["electron", "linux"],
+      "enabled": true
+    },
     "android": {
       "stack": ["react-native", "android"],
       "enabled": true
